@@ -7,7 +7,7 @@ public class Dice {
 	private String range;
 	private int points;
 
-	public Dice() //Constructor if no parameter included
+	public Dice() //Default constructor
 	{
 		dice=1;
 	}
